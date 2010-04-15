@@ -10,6 +10,6 @@ the CommonJS API to declare which files should be merged.
 
 ## Modulr
 
-To learn more about Modulr, take a peek at the project on GitHub:
+To learn more about Modulr, take a peek at the project on Github:
 
-http://github.com/codespeaks/modulr
+[http://github.com/codespeaks/modulr](http://github.com/codespeaks/modulr)
