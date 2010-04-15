@@ -24,3 +24,7 @@ To learn more about Modulr, take a peek at the project on Github:
 
 Take a look at `main.js` and each of the files within `lib/` to get an idea of
 how all of the scripts tie together. The result is viewable within `modulrized.js`.
+
+## More information
+
+I've posted a more thorough explanation of Modulr [on my blog](http://dandean.com/category/uncategorized/2010/modulr-script-concatination-via-commonjs/).
